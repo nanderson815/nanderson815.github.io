@@ -1,0 +1,14 @@
+/* Aligns Header Bar to Top of Page */
+body{
+    margin: -22px 0px 0px 0px;
+}
+
+/* Header Styling */
+header{
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    background-color: red;
+    height: 50px;
+    line-height: 50px;
+}
