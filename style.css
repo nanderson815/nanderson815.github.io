@@ -12,3 +12,17 @@ header{
     height: 50px;
     line-height: 50px;
 }
+
+header:hover{
+    background-color: darkred;
+    font-size: 125%;
+}
+
+.gallary{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column:hover {
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
